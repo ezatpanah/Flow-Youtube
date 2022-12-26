@@ -4,7 +4,7 @@
 
 YouTube Video :
 <br>  
-<a href="" target="_blank"><img alt="Ezatpanah  Flow-Youtube" src="flowCover.jpg" width="60%"></a>
+<a href="https://youtu.be/y6zMtk41iQY" target="_blank"><img alt="Ezatpanah  Flow-Youtube" src="flowCover.jpg" width="60%"></a>
 <br>
 <img alt="Ezatpanah  Flow-Youtube" src="ezgif-2-8f0fde0a2f.gif" width="20%">
 
@@ -12,7 +12,7 @@ YouTube Video :
 
 Article on Medium:
 <br>
-
+https://medium.com/@ezatpanah/what-is-flow-in-kotlin-and-how-to-use-it-in-android-project-complete-guide-part-1-aa60375ff527
 <br>
 <br>
 
