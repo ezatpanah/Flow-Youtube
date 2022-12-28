@@ -10,7 +10,7 @@ Part1 :
 <br>
 Part2 :
 <br>  
-<a href="" target="_blank"><img alt="Ezatpanah  Flow-Youtube" src="FlowPart2Cover.jpg" width="60%"></a>
+<a href="https://youtu.be/1BjkrNimA-c" target="_blank"><img alt="Ezatpanah  Flow-Youtube" src="FlowPart2Cover.jpg" width="60%"></a>
 <br>
 
 
