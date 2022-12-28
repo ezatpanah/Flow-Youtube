@@ -16,12 +16,9 @@ Part2 :
 
 Article on Medium:
 <br>
-Part1 :
-https://medium.com/@ezatpanah/what-is-flow-in-kotlin-and-how-to-use-it-in-android-project-complete-guide-part-1-aa60375ff527
+Part1 : https://medium.com/@ezatpanah/what-is-flow-in-kotlin-and-how-to-use-it-in-android-project-complete-guide-part-1-aa60375ff527
 <br>
-Part2 :
-<br>
-https://androidgeek.co/how-to-use-flow-operators-in-kotlin-complete-guide-part-2-8c14adaa0349
+Part2 : https://androidgeek.co/how-to-use-flow-operators-in-kotlin-complete-guide-part-2-8c14adaa0349
 
 
 ✨ Join Medium to read thousands of valuable stories ✨
