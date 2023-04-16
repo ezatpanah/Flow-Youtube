@@ -31,9 +31,23 @@
 - **Why Terminal Operators ?** : Flows are cold and they won't produce a value until a terminal operator is called.
 - **collect{...}** is the most common terminal operator.
 - **filter{...}** works like if condition.
-- **if condition is satisfied?** Execute map part now.
+   - **if condition is satisfied?** Execute map part now.
 - **first{...}** It returns only the first emission of the flow.
 - **last{...}** 
 - **toList()**
 - **toSet()**
 - **reduce{...}**  Reduce operator allows performing operation over all items of the flow to reduce them into one item.
+- **fold(){...}** 
+  ```
+  flowOf(1, 2, 3)
+    .fold(5, { acc, value -> acc + value })
+   Output: 11
+   ```
+   
+   ### Intermediate Operators
+   
+  - These don't run any code in the flow and aren't functions that stops the flow.
+  - They set up a chain of operators for future execution and quickly return.
+  - **map{}**
+  - **take()**
+  - **zip(){}**
