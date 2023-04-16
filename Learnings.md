@@ -24,3 +24,16 @@
      }
      
      ```
+
+## Operators
+
+- There are 2 types of operators : **Terminal and Intermediate.**
+- **Why Terminal Operators ?** : Flows are cold and they won't produce a value until a terminal operator is called.
+- **collect{...}** is the most common terminal operator.
+- **filter{...}** works like if condition.
+- **if condition is satisfied?** Execute map part now.
+- **first{...}** It returns only the first emission of the flow.
+- **last{...}** 
+- **toList()**
+- **toSet()**
+- **reduce{...}**  Reduce operator allows performing operation over all items of the flow to reduce them into one item.
